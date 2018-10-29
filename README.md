@@ -1,1 +1,2 @@
 # MyNewProject
+print("HelloWorld!")
